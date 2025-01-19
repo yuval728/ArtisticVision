@@ -40,10 +40,13 @@ python stylize.py --content_image path/to/input/image.jpg --model model/model.pt
 Here are some examples of images processed with different styles:
 
 - Original Image:
+
  [![Original Image](assests/dancing.jpg)](assests/dancing.jpg)
-- Styled Image 1: 
+- Styled Image 1:
+  
 [![Styled Image 1](assests/output.jpg)](assests/output.jpg)
-- Styled Image 2 (Preserve Color): 
+- Styled Image 2 (Preserve Color):
+  
 [![Styled Image 2](assests/output_color.jpg)](assests/output_color.jpg)
 
 ## Contributing
